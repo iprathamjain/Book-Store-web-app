@@ -1,5 +1,5 @@
 # The Book Empire: An ecommerce web-app
-### [Click here](http://.herokuapp.com/) for the Live Demo
+### [Click here](https://webbookstoreapp.herokuapp.com) for the Live Demo
 
 ## Features
 
